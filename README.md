@@ -4,7 +4,8 @@ Softreck's vision for 2030
 + hypermodularity - [hyperModularity.com](https://www.hypermodularity.com/)
 + AI personalisation - [AIpersonalisation.com](https://www.aipersonalisation.com/)
 + FaaS, nanoservices - 
-+ nanofrontends - [nanoFrontends.com](https://www.nanofrontends.com/)
++ nano frontends - [nanoFrontends.com](https://www.nanofrontends.com/)
++ micro frontends [microFrontend.org](https://www.microfrontend.org/#/)
 
 
 --
