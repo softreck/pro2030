@@ -6,7 +6,7 @@ Softreck's vision for 2030
 + FaaS, nanoservices - 
 + nano frontends - [nanoFrontends.com](https://www.nanofrontends.com/)
 + micro frontends [microFrontend.org](https://www.microfrontend.org/#/)
-+ [private 5g - Cloud Service Provider](https://private5g.pl/)
++ [private 5g - Cloud Service Provider](https://www.private5g.pl/)
 + [botreck](https://botreck.com) - as a new organisation with solutions dedicated for robots industry
 
 
